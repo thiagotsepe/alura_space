@@ -32,24 +32,6 @@ O foco do projeto é o aprendizado prático do framework Django, cobrindo desde 
 
 ---
 
-## 📁 Estrutura do Projeto
-
-```
-django_teste/
-├── galeria/
-│   ├── migrations/
-│   ├── templates/
-│   │   └── galeria/
-│   │       ├── index.html
-│   │       └── imagem.html
-│   ├── static/
-│   ├── models.py
-│   ├── views.py
-│   └── urls.py
-├── manage.py
-└── README.md
-```
-
 ## 📖 Conceitos Aprendidos
 
 - Criação de **models** com choices/opções
