@@ -69,18 +69,18 @@ O foco do projeto é o aprendizado prático do framework Django, cobrindo desde 
 # 🚀 Como rodar o projeto
 
   ## Clone o repositório
-  git clone https://github.com/thiagotsepe/alura_space.git
-  cd alura_space
+  - git clone https://github.com/thiagotsepe/alura_space.git
+  - cd alura_space
   
   ## Crie e ative um ambiente virtual
-  python -m venv venv
-  source venv/bin/activate  # Windows: venv\Scripts\activate
+  - python -m venv venv
+  - source venv/bin/activate / # Windows: venv\Scripts\activate
   
   ## Instale as dependências
-  pip install -r requirements.txt
+  - pip install -r requirements.txt
   
   ## Rode as migrações
-  python manage.py migrate
+  - python manage.py migrate
   
   ## Inicie o servidor
-  python manage.py runserver
+  - python manage.py runserver
