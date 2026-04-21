@@ -1,12 +1,12 @@
 🚀 Alura Space — Galeria de Fotos do Espaço
 
 Projeto desenvolvido durante o aprendizado de Django, construindo uma galeria de fotografias astronômicas com funcionalidades de listagem, filtro por categoria, busca e autenticação de usuários.
-
+---
 📚 Sobre o Projeto
 
 O Alura Space é uma aplicação web que exibe uma galeria de fotos do espaço (nebulosas, estrelas, galáxias e planetas), permitindo ao usuário navegar, filtrar por categoria e buscar imagens pelo nome.
 O foco do projeto é o aprendizado prático do framework Django, cobrindo desde a criação de models e autenticação de usuários até o roteamento de URLs e renderização de templates.
-
+---
 ✨ Funcionalidades
 
 🖼️ Galeria
@@ -24,7 +24,7 @@ O foco do projeto é o aprendizado prático do framework Django, cobrindo desde 
 - Login e logout de usuários
 - Feedback visual com mensagens flash (alerts) para ações do usuário
 
-
+---
 🛠️ Tecnologias Utilizadas
 
 - Python 3.14
@@ -64,6 +64,7 @@ Templates
 - Inclusão de partials com {% include %}
 - Exibição de mensagens flash com {% for message in messages %}
 
+---
 🚀 Como rodar o projeto
 
   # Clone o repositório
