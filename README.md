@@ -6,6 +6,7 @@ O Alura Space é uma aplicação web que exibe uma galeria de fotos do espaço (
 O foco do projeto é o aprendizado prático do framework Django, cobrindo desde a criação de models e autenticação de usuários até o roteamento de URLs e renderização de templates.
 
 ✨ Funcionalidades
+
 🖼️ Galeria
 
 - Listagem de fotografias cadastradas
