@@ -8,58 +8,54 @@ O foco do projeto é o aprendizado prático do framework Django, cobrindo desde 
 ✨ Funcionalidades
 🖼️ Galeria
 
-Listagem de fotografias cadastradas
-Filtro por categoria (Nebulosa, Estrela, Galáxia, Planeta)
-Tag ativa com destaque visual ao filtrar
-Busca por nome de fotografia
-Página de detalhe de cada imagem
-Exibição apenas de fotos publicadas
+- Listagem de fotografias cadastradas
+- Filtro por categoria (Nebulosa, Estrela, Galáxia, Planeta)
+- Tag ativa com destaque visual ao filtrar
+- Busca por nome de fotografia
+- Página de detalhe de cada imagem
+- Exibição apenas de fotos publicadas
 
 🔐 Autenticação
 
-Cadastro de novos usuários
-Login e logout de usuários
-Feedback visual com mensagens flash (alerts) para ações do usuário
+- Cadastro de novos usuários
+- Login e logout de usuários
+- Feedback visual com mensagens flash (alerts) para ações do usuário
 
 
 🛠️ Tecnologias Utilizadas
 
-Python 3.14
-Django 6.0
-HTML5 & CSS3
-Bootstrap 5
-SQLite (banco de dados padrão do Django)
+- Python 3.14
+- Django 6.0
+- HTML5 & CSS3
+- Bootstrap 5
+- SQLite (banco de dados padrão do Django)
 
 
 📖 Conceitos Aprendidos
 Models & ORM
-
-Criação de models com choices/opções
-Uso do método get_FOO_display() para exibir valores legíveis
-Filtros no ORM Django (filter, icontains, order_by)
+- Criação de models com choices/opções
+- Uso do método get_FOO_display() para exibir valores legíveis
+- Filtros no ORM Django (filter, icontains, order_by)
 
 Views & URLs
-
-Roteamento com urls.py e passagem de parâmetros
-Reutilização de templates entre views diferentes
-Passagem de contexto (context) do backend para o template
-Busca via query string com request.GET.get()
+- Roteamento com urls.py e passagem de parâmetros
+- Reutilização de templates entre views diferentes
+- Passagem de contexto (context) do backend para o template
+- Busca via query string com request.GET.get()
 
 Autenticação
-
-Uso do sistema de autenticação nativo do Django (django.contrib.auth)
-Criação de formulários de cadastro e login
-Uso de authenticate() e login() / logout()
-Proteção de rotas e redirecionamento pós-autenticação
-Sistema de mensagens com django.contrib.messages e renderização no template
+- Uso do sistema de autenticação nativo do Django (django.contrib.auth)
+- Criação de formulários de cadastro e login
+- Uso de authenticate() e login() / logout()
+- Proteção de rotas e redirecionamento pós-autenticação
+- Sistema de mensagens com django.contrib.messages e renderização no template
 
 Templates
-
-Uso de {% url %}, {% if %}, {% for %} nos templates Django
-Arquivos estáticos com {% static %}
-Herança de templates com {% extends %} e {% block %}
-Inclusão de partials com {% include %}
-Exibição de mensagens flash com {% for message in messages %}
+- Uso de {% url %}, {% if %}, {% for %} nos templates Django
+- Arquivos estáticos com {% static %}
+- Herança de templates com {% extends %} e {% block %}
+- Inclusão de partials com {% include %}
+- Exibição de mensagens flash com {% for message in messages %}
 
 🚀 Como rodar o projeto
   # Clone o repositório
