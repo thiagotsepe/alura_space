@@ -1,6 +1,5 @@
-🚀 Alura Space — 
+🚀 Alura Space — Galeria de Fotos do Espaço
 
-Galeria de Fotos do Espaço
 Projeto desenvolvido durante o aprendizado de Django, construindo uma galeria de fotografias astronômicas com funcionalidades de listagem, filtro por categoria, busca e autenticação de usuários.
 
 📚 Sobre o Projeto
